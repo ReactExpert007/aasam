@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aasamGovFrontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/aasamGovFrontend/static/js/main.f9a3b176.chunk.js",
+    "main.js.map": "/aasamGovFrontend/static/js/main.f9a3b176.chunk.js.map",
+    "runtime-main.js": "/aasamGovFrontend/static/js/runtime-main.b4573f81.js",
+    "runtime-main.js.map": "/aasamGovFrontend/static/js/runtime-main.b4573f81.js.map",
+    "static/js/2.e528afa5.chunk.js": "/aasamGovFrontend/static/js/2.e528afa5.chunk.js",
+    "static/js/2.e528afa5.chunk.js.map": "/aasamGovFrontend/static/js/2.e528afa5.chunk.js.map",
+    "index.html": "/aasamGovFrontend/index.html",
+    "precache-manifest.3fad0090e17db5a12ffc9798a59debec.js": "/aasamGovFrontend/precache-manifest.3fad0090e17db5a12ffc9798a59debec.js",
+    "service-worker.js": "/aasamGovFrontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/aasamGovFrontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e528afa5.chunk.js.LICENSE.txt": "/aasamGovFrontend/static/js/2.e528afa5.chunk.js.LICENSE.txt",
+    "static/js/main.f9a3b176.chunk.js.LICENSE.txt": "/aasamGovFrontend/static/js/main.f9a3b176.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4573f81.js",
+    "static/js/2.e528afa5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f9a3b176.chunk.js"
+  ]
+}
